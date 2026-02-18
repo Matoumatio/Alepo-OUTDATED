@@ -1,5 +1,5 @@
 
-# Alepo
+# Alepo (!! OUTDATED !!)
 
 - TradML (pour MultiLingual) est une application de traduction qui traduit des mots ou des phrases en utilisant un dictionnaire personnalisé d'une langue créée : l'Alepo
 - Elle fonctionne via une interface graphique avec Tkinter, permettant à l'utilisateur d'interagir facilement avec l'application pour obtenir des traductions
